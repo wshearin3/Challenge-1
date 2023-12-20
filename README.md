@@ -23,3 +23,7 @@ N/A
 ## Link to Webpage
 
 https://wshearin3.github.io/Challenge-1/
+
+## Screenshots
+
+Webpage screenshots located within ./assets/images/
