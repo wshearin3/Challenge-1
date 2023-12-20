@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/*Adjust color within span{} to change color of "seo" in header*/
 span {
     color: #2589bd;
 }
