@@ -78,6 +78,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Benefit Lead Section*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -94,6 +95,7 @@ p {
     max-width: 150px;
 }
 
+/*Benefit Brand Section*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -110,6 +112,7 @@ p {
     max-width: 150px;
 }
 
+/*Benefit Cost Section*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
