@@ -20,6 +20,10 @@ body {
     font-size: 48px;
 }
 
+span {
+    color: #2589bd;
+}
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
