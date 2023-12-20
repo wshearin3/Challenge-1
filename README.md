@@ -14,7 +14,7 @@ This webpage is used as a sandbox to practice effective commenting and organizat
 
 ## Credits
 
-Edits performed soley by me, started code for webpage provided by Xandromus.
+Edits performed soley by me, starter code for webpage provided by Xandromus.
 
 ## License
 
